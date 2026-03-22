@@ -1,0 +1,8 @@
+messages:
+  - role: user
+    content: >-
+      Analyse context of models in the folder models represented in Archi
+      version 5 format.
+
+      Provide recommendations to improve the models
+model: deepseek/deepseek-r1
